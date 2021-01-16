@@ -37,7 +37,7 @@ if(x == 1)
 	umn = umount(tdev);
 	if (mn == 0)
 	{
-		printf("<^> Device Unmounted !\n", mnu,mpoint);
+		printf("<^> [%s] Device Unmounted !\n", tdev);
 	}
 	else{
 		printf("<!> Error In Unmounting (Code: %s)!\n",umn);
