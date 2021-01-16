@@ -12,7 +12,11 @@ Step 1 : 'chmod u+x luncher.sh' or 'bash luncher.sh'
 
 Step 2 : './luncher.sh' (With Super User)
 
-Step 3 : 'mntx' , You See Script !
+Step 3 : 'mntx' !
+
+Step 4 : Enter Mode
+
+Step 5 : Example(mount) = '/dev/sda5 /mnt/ts ntfs' | Example(Unmount) = '/mnt/ts'
 ____________________________________________________
 
 * For See Source Code Open 'mntx.c' File !
