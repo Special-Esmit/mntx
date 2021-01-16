@@ -1,8 +1,8 @@
 # mntx
 
-Mount And Unmount Device (Beta Version)
+* Mount And Unmount Device (Beta Version)
 
-Platform : Linux
+* Platform : Linux
 ____________________________________________________
 Running:
 
